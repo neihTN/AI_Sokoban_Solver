@@ -11,5 +11,5 @@ The goal is to demonstrate the strengths and trade-offs of each algorithm when a
 # Video Demo
 
 📽️ **Watch the demo video for a detailed walkthrough:**  
-[![](https://youtu.be/-NDkl0KQVKo/0.jpg)](https://youtu.be/-NDkl0KQVKo)
+[![](https://img.youtube.com/vi/-NDkl0KQVKo/0.jpg)](https://youtu.be/-NDkl0KQVKo)
 
